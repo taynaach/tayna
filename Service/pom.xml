@@ -1,0 +1,25 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>ma.educall.projet</groupId>
+  <artifactId>Service</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>MEILLEUR EQUIPE SERVICE</name>
+  <description> ICI PAS DE CJKSJDJDD  JDJJDKD DKDJDSJJC KJDSKSJSKJDSKSKSK </description>
+  <licenses>
+       <license>
+           <name> Educall service</name>
+  </license>
+  </licenses>
+  <developers> 
+  <developer>
+  <name>MOHAMED MENNOUI</name>
+
+  </developer>
+  <developer>
+  <name>SOUKAINA ACH</name>
+  </developer>
+  </developers>
+  <organization> 
+  <name>Educall </name>
+  </organization>
+</project>
